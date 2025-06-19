@@ -1,1 +1,1 @@
-https://single-page-cv-eun.pages.dev/
+https://roadmap.sh/projects/single-page-cv
